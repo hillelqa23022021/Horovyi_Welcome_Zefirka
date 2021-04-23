@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=Юникод">
+  <title>Моя первая веб-страница</title>
+ <head>
+<body bgcolor="#FFFF00">
+ <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3e67N-cX_6LAZ6wtK5ej58zzhH0OO5PnmA&usqp=CAU" title="Нажмите внизу на имя Zefirka"></a></p>
+ <h1 align="center"> Всем привет!:)</h1>
+ <p align="center"> Наш сайт находится на разработке.</p>
+ <p align="center"> Найти Вы нас можете кликнув на имя <a href="http://ukr.net">Zefirka</a></p>
+
+ <p align="center"> Отдельный привет <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB_(%D0%B8%D0%BC%D1%8F)">Даниле</a> <a href="http://kazakh-zerno.kz/novosti/2630-glavnie-novosti/231473-kazakhstan-v-sredu-na-ets-pshenitsa-4-klassa-ushla-na-raznykh-bazisakh-postavki-po-raznym-tsenam">Пшенному</a>, который постоянно висит в ФБ.</p>
+
+ <p align="center"> Отдельный привет <a href="https://ru.wikipedia.org/wiki/%D0%A6%D1%8B%D0%B3%D0%B0%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1979)">Вадиму Черному</a> по кличке Цыган</p>
+</body>
+</html>
