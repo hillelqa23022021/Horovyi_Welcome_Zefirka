@@ -5,7 +5,7 @@
   <title>Моя первая веб-страница</title>
  <head>
 <body bgcolor="#FFFF00">
- <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3e67N-cX_6LAZ6wtK5ej58zzhH0OO5PnmA&usqp=CAU" title="Нажмите внизу на имя Zefirka"></a></p>
+ 
  <h1 align="center"> Всем привет!:)</h1>
  <p align="center"> Наш сайт находится на разработке.</p>
  <p align="center"> Найти Вы нас можете кликнув на имя <a href="http://ukr.net">Zefirka</a></p>
